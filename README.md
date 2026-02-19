@@ -9,5 +9,6 @@
 - [Скачайте скрипт](https://github.com/RDF1337/har2mp4GUI/releases/download/v1.0.0/har2mp4GUI.rar).
 - Поместите файл `name.har` в папку со скриптом.
 - Запустите `har2mp4.exe` и нажмите Start.
-- Дождитесь окончания работы скрипта. Готовый файл появится в папке `output`.<br>
+- Дождитесь окончания работы скрипта. Готовый файл появится в папке `output`.  
+
 ![Screenshot](./screenshot.png)
